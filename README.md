@@ -1,2 +1,2 @@
-tudo nosso
-nada deles
+nada é nosso
+tudo é deles
