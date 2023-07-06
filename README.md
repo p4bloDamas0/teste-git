@@ -1,1 +1,2 @@
 tudo nosso
+nada deles
